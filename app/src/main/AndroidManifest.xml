@@ -10,14 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LemonadeTycoon">
         <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
+            android:name=".MainGameActivity"
+            android:label="Test"
             android:theme="@style/Theme.LemonadeTycoon.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.LemonadeTycoon.NoActionBar">
+
         </activity>
     </application>
 
