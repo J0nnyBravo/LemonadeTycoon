@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -103,4 +102,3 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
->>>>>>> 80e473561d5a4a53a372cf91ded1c379d577a86e
